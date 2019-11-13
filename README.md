@@ -5,3 +5,7 @@ To start, clone this repo and run:
 2. `npm start` (start our local development server)
 
 > `http://localhost:3000` is the default path to our served site
+
+Changes by Algirdas Toleikis:
+-use Redux
+-implement genre filtering using redux
